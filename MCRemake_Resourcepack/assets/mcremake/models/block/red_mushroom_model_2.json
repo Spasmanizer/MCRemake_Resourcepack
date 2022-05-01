@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "#mushroom",
-		"mushroom": "minecraft:block/red_mushroom"
+		"particle": "block/red_mushroom",
+		"mushroom": "block/red_mushroom"
 	},
 	"elements": [
 		{
@@ -425,7 +425,8 @@
 			"translation": [0.75, 4.75, 0]
 		},
 		"ground": {
-			"translation": [0, 4, 0]
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
 			"rotation": [30, 225, 0],

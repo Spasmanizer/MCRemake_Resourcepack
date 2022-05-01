@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"mushroom": "minecraft:block/brown_mushroom"
+		"particle": "block/brown_mushroom",
+		"mushroom": "block/brown_mushroom"
 	},
 	"elements": [
 		{

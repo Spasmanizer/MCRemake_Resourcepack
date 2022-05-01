@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"spyglass": "minecraft:item/spyglass_model"
+		"spyglass": "item/spyglass_model"
 	},
 	"elements": [
 		{

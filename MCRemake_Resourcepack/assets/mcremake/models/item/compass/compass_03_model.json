@@ -95,12 +95,12 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"firstperson_righthand": {
-			"rotation": [90, -90, 0],
+			"rotation": [90, 0, 0],
 			"translation": [2.75, 3.2, 3.5],
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"firstperson_lefthand": {
-			"rotation": [90, -90, 0],
+			"rotation": [90, 0, 0],
 			"translation": [2.75, 3.2, 3.5],
 			"scale": [0.68, 0.68, 0.68]
 		},
