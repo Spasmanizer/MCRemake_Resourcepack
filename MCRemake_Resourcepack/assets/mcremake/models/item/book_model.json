@@ -90,12 +90,12 @@
 			"translation": [1, 4, 7]
 		},
 		"ground": {
-			"rotation": [43, 0, 52],
-			"translation": [-3.25, 4.25, 2]
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [-57.88, -12.14, -135.27],
-			"translation": [4.5, -2, 0],
+			"rotation": [-45, -15, -120],
+			"translation": [5.5, -1.5, 0],
 			"scale": [1.3, 1.3, 1.3]
 		},
 		"head": {
